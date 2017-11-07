@@ -1,0 +1,17 @@
+{
+  "name": "web-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "cucumber": "^3.1.0",
+    "webdriverio": "^4.8.0"
+  }
+}
